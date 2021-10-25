@@ -13,4 +13,4 @@ Projeto construído usando Node.js , React.js e ReactNative
 
 ![foto4](https://github.com/aandrelouis/Be-the-hero-/blob/master/img/print4.png)
 
-![App](https://github.com/aandrelouis/Be-the-hero-/blob/master/img/BeTheHeroMobile.png)
+![App](https://github.com/aandrelouis/Be-the-hero-/blob/master/img/BeTheHeroMobile.jpg)
